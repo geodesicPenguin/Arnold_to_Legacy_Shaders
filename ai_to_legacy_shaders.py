@@ -1,4 +1,5 @@
 # geodesicPenguin 2022
+# Github URL https://github.com/geodesicPenguin/Arnold_to_Legacy_Shaders
 
 
 from maya import cmds
