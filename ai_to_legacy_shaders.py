@@ -1,5 +1,5 @@
-# Lucas Santos 2022
-# Make this tool turn it into a standard surface instead?
+# geodesicPenguin 2022
+
 
 from maya import cmds
 from maya.mel import eval
